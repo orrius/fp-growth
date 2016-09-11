@@ -1,4 +1,4 @@
-# apriori
+# fp-growth
 
 FIXME: description
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar apriori-0.1.0-standalone.jar [args]
+    $ java -jar fp-growth-0.1.0-standalone.jar [args]
 
 ## Options
 

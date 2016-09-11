@@ -1,3 +1,3 @@
-# Introduction to apriori
+# Introduction to fp-growth
 
 TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)

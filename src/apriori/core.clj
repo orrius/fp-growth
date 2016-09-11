@@ -1,4 +1,4 @@
-(ns apriori.core
+(ns fp-growth.core
   (:gen-class))
 
 
